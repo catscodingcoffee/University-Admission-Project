@@ -1,4 +1,4 @@
-# University-Admission-Project
+# University Admission Project
 
 Source: Hyperskill.org
 
